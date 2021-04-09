@@ -1,0 +1,11 @@
+{
+  "name": "CI Workflow",
+  "description": "Standard testing and deployment workflow for God Object projects",
+  "iconName": "sun-symbol",
+  "categories": [
+    "Python"
+  ],
+  "filePatterns": [
+    "^Dockerfile"
+  ]
+}
